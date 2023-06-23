@@ -129,8 +129,9 @@ nav li a:hover {
 .btn-bet {
   width: 96%;
   margin-left: 2%;
+
   margin-right: 2%;
-  background-color: rgba(10, 99, 141, 0.92);
+  background-color: #0a638deb;
   transform: skew(20deg, 0.5deg);
   margin-bottom: 18px;
 }
